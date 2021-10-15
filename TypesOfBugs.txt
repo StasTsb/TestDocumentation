@@ -1,20 +1,36 @@
-============================TYPES================================
+============================Utest_TYPES================================
 
+Functional
+Workflow failures producing an unexpected or illogical application behavior where the actual 
+result differs from the expected result.
 Функциональные
 Сбои рабочего процесса, вызывающие неожиданное или нелогичное поведение приложения, 
 когда фактический результат отличается от ожидаемого.
+------------------------------------------------------------------------------------------------------
 
+Visual
+Visual issues affect the layout and cause user interface distortion such as missing elements or images 
+on a page.
 Визуальные
 Визуальные проблемы влияют на макет и вызывают искажения пользовательского интерфейса, 
 такие как отсутствие элементов или изображений на странице.
+------------------------------------------------------------------------------------------------------
 
+Content
+Content issues affect the text of a page, such as spelling, grammar and localization errors.
 Контент
 Проблемы с контентом влияют на текст страницы, например орфографические, грамматические 
 и локализационные ошибки
+------------------------------------------------------------------------------------------------------
 
+Performance
+Problematic slowness or hanging, sluggish interface. Features take longer to load than they should, slow navigation in the application.
 Производительность
 Проблемная медлительность или зависание, вялый интерфейс. Функции загружаются дольше, 
 чем должны, медленная навигация в приложении.
+-----------------------------------------------------------------------------------------------------
 
+Crash
+Application quits or closes unexpectedly while using the features.
 Краш
 Приложение неожиданно завершает работу или закрывается во время использования функций.
