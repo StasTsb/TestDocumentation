@@ -1,0 +1,183 @@
+BUG_REPORTS
+========================================
+TITLE:
+Xiaomi Mi 8 -  Home page - The page is not scrolling down
+
+Action Performed:
+1. Open the testing website: XXXXXXXXXXX
+2. Make sure that the home page is scrolling down
+3. Tap on the hamburger menu
+4. Open "Woman" category 
+5. Close the hamburger menu
+6. Scroll down the page
+
+Expected Result:
+The home page will scroll down
+
+Actual Result:
+The home page does not scroll down
+
+Attachment
+BugXXXXXX_log.txt: XXXXXXX
+BugXXXXXX_video.mp4: XXXXXXXX
+BugXXXXXX_Screen.jpg: XXXXXXXX
+
+Environment
+Xiaomi Mi 8 - Android 10, Wi-Fi, Chrome
+
+ID: XXXXX
+Status: XXXXXXXX
+Valuable: very valuable
+Creation Date: XX/XX/2021
+Bug Type: Functional
+Frequency: Every Time
+Severity: High
+
+============================================
+TITLE:
+Belarus - Settings - The light theme does not work
+
+Component: Settings
+
+Action Performed:
+1. Open "XXXXX" browser
+2. Tap on Action menu
+3. Tap on settings
+4. Tap on Theme
+5. Choose "Light"
+
+Expected Result:
+The browser switches to a light theme
+
+Actual Result:
+The browser does not switch to a light theme
+
+Is the bug reproducible with Chrome or Huawei Browser?: No
+Is the bug reproducible with Brave Browser?: Yes (Build Number/Version: 855)
+Is the bug reproducible with "XXXXX" Store Browser?: Yes
+
+Attachment
+Bug000000_screen.jpg: XXXXXX
+Bug000000_log.txt: XXXXXX
+Bug000000_video.mp4: XXXXX
+
+Environment
+Xiaomi Mi 8 - Android 10, Wi-Fi
+
+ID: XXXX
+Status: Approved
+Valuable: somewhat valuable
+Creation Date: XX/XX/2021
+Bug Type: Functional
+Frequency: Every Time
+Severity: Low
+============================================
+TITLE:
+XXXXXXXX, Mobile: Fix going beyond the screen videos
+
+Action Performed:
+1. Open the test website XXXXXXXXXX
+2. Scroll down to the category "Latest"
+
+Expected Result:
+The list of videos does not go beyond the screen
+
+Actual Result:
+The list of videos goes off the screen
+
+Exact URL: XXXXXXXXXX
+Country: Belarus
+Environment: mobile Xiaomi Mi 8 Android 10 - Chrome 95.0
+Browser Version: Chrome 95
+Device Detail: Xiaomi Mi 8 Android 10
+Attachment
+BugXXXXXXX_video.mp4: XXXXXXXXXXXXX
+BugXXXXXXXXX_screen.jpg: XXXXXXXXXXXXX
+Bug5XXXXXX_log.txt: XXXXXXXXXXXXX
+
+ID: XXXXXXX
+Status: Approved
+Valuable: very valuable
+Creation Date: XX/XX/2021
+Bug Type: Visual
+Frequency: Every Time
+Severity: Low
+============================================
+TITLE:
+Xiaomi Mi 8/10: Registered Customers - The "Remember me" button doesn't work
+
+Component:
+Log In / Log Out
+
+Action Performed:
+1. Open the test website: XXXXXXXX
+2. Tap on Hamburger menu
+3. Scroll down and tap on the "Localization" icon 
+4. Select the country "USA" and the language "English"
+5. At the top of the page, tap on the "profile" button
+6. Fill "email address*" and "password*" fields (account previously registered)
+7. Tap on "Remember me"
+8. Tap on "Login" button"
+9. Сlose the browser
+10. Open a browser with a test website
+
+Expected Result:
+Re-login to the account is not required
+
+Actual Result:
+Re-login to the account is required
+
+Website local version: RU
+Attachment
+BugXXXXXX_log.txt: XXXXXXXXX
+BugXXXXXXX_screen.jpg: XXXXXXXXXX
+BugXXXXXX_Video.mp4: XXXXXXXXXX
+
+Environment
+Xiaomi Mi 8 - Android 10, Wi-Fi
+
+ID: XXXXX
+Status: Approved
+Valuable: somewhat valuable
+Creation Date: XX/XX/2021
+Bug Type: Functional
+Frequency: Every Time
+Severity: Medium
+============================================
+TITLE:
+XXXXXXXXXX: Fix HTML Text Appearing in Headlines/Captions
+
+Action Performed:
+1. Open the website: XXXXXXXXX
+2. In the header, hover over tab "more" and select "Galleries"
+3. Scroll down and select page 462
+
+Expected Result:
+The text does not go beyond the page
+
+Actual Result:
+The text goes beyond the page
+
+Browser Version: Chrome 94.0.4606.81
+Exact URL: XXXXXXXXXXX
+Country: Belarus
+Environment: Desktop Windows 10 - Chrome 94.0.4606.81
+Additional Information:
+the same problem on the page: 478 "XXXXXX", 398 "XXXXXXXX"
+https://www.XXXXXXXXXXX
+https://www.XXXXXXXXXXX
+
+Attachment
+BugXXXXXX_screen.png: XXXXXXXXXXXX
+BugXXXXXXX_video.mp4: XXXXXXXXXXXXX
+BugXXXXXX_logs.txt: XXXXXXXXXXXXXXX
+
+ID: XXXXXXXXX
+Status: Approved
+Valuable: very valuable
+Creation Date: XX/XX/2021
+Bug Type: Visual
+Frequency: Every Time
+Severity: Low
+
+
