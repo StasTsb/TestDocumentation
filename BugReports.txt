@@ -179,5 +179,43 @@ Creation Date: XX/XX/2021
 Bug Type: Visual
 Frequency: Every Time
 Severity: Low
+============================================
+TITLE:
+Belarus - My files - Unable to download video
 
+Component:
+Upload & Download
 
+Action Performed:
+1. Open XXXXX app
+2. Tap on "Все файлы"
+3. Open video file
+4. Tap on "Скачать"
+
+Expected Result:
+The video file has been downloaded
+
+Actual Result:
+The video file was not downloaded
+
+Error Message:
+Ошибка скачивания
+
+Build Number/Version: 20.XXX
+Network: Wi-Fi
+
+Attachment
+BugXXXXXX_bugTI1150XXX.jpg: XXXXXXX
+BugXXXXXX_bugTI1150XXX.mp4: XXXXXXXXX
+BugXXXXXX_log.txt.txt: XXXXXXXXXX
+
+Environment
+Xiaomi Mi 8 - Android 10, Wi-Fi
+
+ID: XXXXXXXX
+Status: Approved
+Valuable: very valuable
+Creation Date: XX/XX/2021
+Bug Type: Functional
+Frequency: Every Time
+Severity: High
