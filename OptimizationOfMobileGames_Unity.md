@@ -28,7 +28,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Настраиваем допустимый Clipping Planes при разработке 3D<br> Ограничиваем область прорисовки дальних обьектов</td>
-<td style="width: 258.112px; height: 17px;">O_O = 2555</td>
+<td style="width: 258.112px; height: 17px;">O_O </td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 672.438px; height: 17px;" colspan="5">Работа с рендерингом</td>
