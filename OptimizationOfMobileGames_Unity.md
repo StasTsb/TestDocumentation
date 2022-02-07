@@ -16,7 +16,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">MSAA не выше 4Х на любых мобильных платформах</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/3.png" width="340" height="126"></td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Используем Forward-режим рендеринга без использования HDR<br> Снижаем нагрузку на GPU</td>
