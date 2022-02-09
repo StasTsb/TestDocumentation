@@ -8,7 +8,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Чем больше камер, тем выше нагрузка на CPU</td>
-<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/3.png" width="340" height="126"></td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/1.png" width="340" height="126"></td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Использование пост обработки увеличивает нагрузку на GPU</td>
@@ -20,7 +20,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Используем Forward-режим рендеринга без использования HDR<br> Снижаем нагрузку на GPU</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/4.png" width="340" height="126"></td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Выставляем на камере Clear Flags<br> Указываем что нужно очищать при рендеренге каждый кадр</td>
