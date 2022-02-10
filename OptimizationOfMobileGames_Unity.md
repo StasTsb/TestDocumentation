@@ -24,7 +24,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Выставляем на камере Clear Flags<br> Указываем что нужно очищать при рендеренге каждый кадр</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/5.png" width="340" height="126"></td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Настраиваем допустимый Clipping Planes при разработке 3D<br> Ограничиваем область прорисовки дальних обьектов</td>
