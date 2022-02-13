@@ -28,7 +28,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Настраиваем допустимый Clipping Planes при разработке 3D<br> Ограничиваем область прорисовки дальних обьектов</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/6.png" width="340" height="126"></td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 672.438px; height: 17px;" colspan="5">Работа с рендерингом</td>
