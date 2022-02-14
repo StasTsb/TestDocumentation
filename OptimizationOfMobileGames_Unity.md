@@ -35,7 +35,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Используем облегченные API (Vulkan или Metal)<br> Для 2D достаточно (OpenGL2)</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/7.png" width="340" height="126"></td>
 </tr>
 </tr>
 <tr style="height: 17px;">
