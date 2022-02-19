@@ -50,7 +50,7 @@
 </tr>
 <tr style="height: 17px;">
 <td style="width: 258.112px; height: 17px;">Стараемся использовать Static и Dynamic Batching для обьектов и объединения геометрии</td>
-<td style="width: 258.112px; height: 17px;">O_O </td>
+<td><img src="https://github.com/StasTsb/TestDocumentation/blob/master/ScreenOpti/10.png" width="340" height="126"></td>
 </tr>
 </tr>
 <tr style="height: 17px;">
